@@ -6,7 +6,7 @@ Vue.use(Vuex)
 export default new Vuex.Store({
     state: {
         todos: [
-            {item: "lear vue", isCompleted: false},
+            {item: "learn vue", isCompleted: false},
             {item: "work", isCompleted: false}
         ]
     },
