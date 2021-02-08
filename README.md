@@ -1,5 +1,6 @@
 # Simple todo list using Vue, Vuex and BootstrapVue.
 
+![Image of Demo](https://github.com/baobaollf/vuex-todolist/blob/main/screenShot.PNG)
 
 ## Project setup
 ```
